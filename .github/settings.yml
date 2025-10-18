@@ -1,6 +1,6 @@
 ---
 repository:
-  name: firezone-gateway
+  name: ansible-firezone-gateway
   description: Ansible role to install and configure a Firezone gateway
   topics: ansible, role, ansible-role, hacktoberfest
 
@@ -33,7 +33,6 @@ rulesets:
     rules:
       - type: required_linear_history
       - type: deletion
-      - type: non_fast_forward
 
   - name: check verification
     target: branch
