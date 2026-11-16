@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.8.3](https://github.com/rolehippie/firezone-gateway/compare/v2.8.2...v2.8.3) (2026-11-16)
+
+* automated readme update [skip ci] ([d33bd05](https://github.com/rolehippie/firezone-gateway/commit/d33bd054adadd630c5dbf7863e0933f9be51ec46))
+* automated release update [skip ci] ([aac3214](https://github.com/rolehippie/firezone-gateway/commit/aac321472ddb2971b470ba01dbb8e981cfae1b73))
+
+### Dependencies
+
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#63](https://github.com/rolehippie/firezone-gateway/issues/63)) ([152cac2](https://github.com/rolehippie/firezone-gateway/commit/152cac261cfe762299292236c78ee57b8ef85258))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#67](https://github.com/rolehippie/firezone-gateway/issues/67)) ([a9cc742](https://github.com/rolehippie/firezone-gateway/commit/a9cc7429878f14ca92a903d184dab777d79d7650))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#65](https://github.com/rolehippie/firezone-gateway/issues/65)) ([7b7d210](https://github.com/rolehippie/firezone-gateway/commit/7b7d210fc229b098a3db575cbcad3f08644bd80d))
+* **mise:** update dependency pipx:molecule to v26.11.0 ([#66](https://github.com/rolehippie/firezone-gateway/issues/66)) ([8ab1a7f](https://github.com/rolehippie/firezone-gateway/commit/8ab1a7fd277103b8ddab560b8a128d3a687dd63a))
+* **mise:** update dependency prek to v0.5.10 ([#64](https://github.com/rolehippie/firezone-gateway/issues/64)) ([407df37](https://github.com/rolehippie/firezone-gateway/commit/407df37874cb5fca3e4e2d77b78cbc945d72fcb5))
+* **mise:** update dependency prek to v0.5.11 ([#69](https://github.com/rolehippie/firezone-gateway/issues/69)) ([c79a01d](https://github.com/rolehippie/firezone-gateway/commit/c79a01d3ce84e1aa28fb76264e7947d6dc96ccd7))
+* **patch:** update ghcr.io/firezone/gateway docker tag to v1.6.5 ([#68](https://github.com/rolehippie/firezone-gateway/issues/68)) ([25dcaf0](https://github.com/rolehippie/firezone-gateway/commit/25dcaf0e68d68cb93cf1091b6cca09b5716318cd))
+
 ## [2.8.2](https://github.com/rolehippie/firezone-gateway/compare/v2.8.1...v2.8.2) (2026-11-02)
 
 ### Dependencies
